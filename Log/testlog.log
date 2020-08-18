@@ -1,0 +1,185 @@
+2020-07-12 00:32:02 testScript.py[line:60]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时32分02秒', 'Pass']
+2020-07-12 00:32:02 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 00:32:02 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 00:32:02 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 00:32:02 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时32分02秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时32分02秒', 'Pass']]
+2020-07-12 00:32:02 testScript.py[line:75]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时32分02秒', 'Pass']]
+2020-07-12 00:35:29 testScript.py[line:60]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时35分29秒', 'Pass']
+2020-07-12 00:35:37 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 00:35:37 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 00:35:37 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时35分37秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时35分29秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时35分37秒', 'Fail']]
+2020-07-12 00:35:37 testScript.py[line:75]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时35分29秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时35分37秒', 'Fail']]
+2020-07-12 00:36:05 testScript.py[line:60]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时36分05秒', 'Pass']
+2020-07-12 00:36:13 testScript.py[line:55]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 00:36:13 testScript.py[line:55]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 00:36:13 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时35分37秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时35分29秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时35分37秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日00时36分13秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时36分05秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时36分13秒', 'Fail']]
+2020-07-12 00:36:13 testScript.py[line:75]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时36分05秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时36分13秒', 'Fail']]
+2020-07-12 00:36:41 testScript.py[line:33]-DEBUG:第【4】个账户【techman666】不需要测试
+2020-07-12 00:36:41 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时35分37秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时35分29秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时35分37秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日00时36分13秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时36分05秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时36分13秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [4, 'techman666', 123, '联系人', 'n', '2020年07月12日00时36分41秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果']]
+2020-07-12 00:36:41 testScript.py[line:75]-DEBUG:sub_result:[]
+2020-07-12 00:52:04 testScript.py[line:60]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分04秒', 'Pass']
+2020-07-12 00:52:12 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 00:52:12 testScript.py[line:55]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 00:52:12 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时52分12秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分04秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时52分12秒', 'Fail']]
+2020-07-12 00:52:12 testScript.py[line:75]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分04秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时52分12秒', 'Fail']]
+2020-07-12 00:52:53 testScript.py[line:60]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分53秒', 'Pass']
+2020-07-12 00:53:02 testScript.py[line:55]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 00:53:02 testScript.py[line:55]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 00:53:02 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时52分12秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分04秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时52分12秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日00时53分02秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分53秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时53分02秒', 'Fail']]
+2020-07-12 00:53:02 testScript.py[line:75]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分53秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时53分02秒', 'Fail']]
+2020-07-12 00:53:44 testScript.py[line:32]-DEBUG:第【4】个账户【techman666】不需要测试
+2020-07-12 00:53:44 testScript.py[line:74]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日00时52分12秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分04秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时52分12秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日00时53分02秒', 'Fail'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日00时52分53秒', 'Pass'], [2, '张三', 'zhangsan@qq.com', '否', '158xxxxxxx3', '不常联系人', 'haha', 'y', '2020年07月12日00时53分02秒', 'Fail'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [4, 'techman666', 123, '联系人', 'n', '2020年07月12日00时53分44秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果']]
+2020-07-12 00:53:44 testScript.py[line:75]-DEBUG:sub_result:[]
+2020-07-12 01:01:01 testScript.py[line:32]-DEBUG:第【1】个账户【testaccount666】不需要测试
+2020-07-12 01:02:25 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分25秒', 'Pass']
+2020-07-12 01:02:25 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 01:02:25 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 01:02:25 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 01:02:25 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时02分25秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分25秒', 'Pass']]
+2020-07-12 01:02:25 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分25秒', 'Pass']]
+2020-07-12 01:02:57 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分57秒', 'Pass']
+2020-07-12 01:02:57 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 01:02:57 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 01:02:57 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 01:02:57 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时02分25秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分25秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日01时02分57秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分57秒', 'Pass']]
+2020-07-12 01:02:57 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时02分57秒', 'Pass']]
+2020-07-12 01:03:35 testScript.py[line:32]-DEBUG:第【4】个账户【techman666】不需要测试
+2020-07-12 01:06:20 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分20秒', 'Pass']
+2020-07-12 01:06:20 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 01:06:20 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 01:06:20 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 01:06:20 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时06分20秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分20秒', 'Pass']]
+2020-07-12 01:06:20 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分20秒', 'Pass']]
+2020-07-12 01:06:41 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分41秒', 'Pass']
+2020-07-12 01:06:41 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 01:06:41 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 01:06:41 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 01:06:41 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时06分20秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分20秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日01时06分41秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分41秒', 'Pass']]
+2020-07-12 01:06:41 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时06分41秒', 'Pass']]
+2020-07-12 01:07:08 testScript.py[line:32]-DEBUG:第【4】个账户【techman666】不需要测试
+2020-07-12 01:08:03 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分03秒', 'Pass']
+2020-07-12 01:08:03 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 01:08:03 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 01:08:03 testScript.py[line:56]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 01:08:03 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时08分03秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分03秒', 'Pass']]
+2020-07-12 01:08:03 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分03秒', 'Pass']]
+2020-07-12 01:08:26 testScript.py[line:61]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分26秒', 'Pass']
+2020-07-12 01:08:26 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 01:08:26 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 01:08:26 testScript.py[line:56]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 01:08:26 testScript.py[line:75]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日01时08分03秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分03秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日01时08分26秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分26秒', 'Pass']]
+2020-07-12 01:08:26 testScript.py[line:76]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日01时08分26秒', 'Pass']]
+2020-07-12 01:08:53 testScript.py[line:32]-DEBUG:第【4】个账户【techman666】不需要测试
+2020-07-12 11:53:35 takeScreenshot.py[line:10]-DEBUG:截图
+2020-07-12 11:57:58 testScript.py[line:19]-DEBUG:[1, 'testaccount666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 11:58:28 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时58分28秒', 'Pass']
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 11:58:28 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日11时58分28秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时58分28秒', 'Pass']]
+2020-07-12 11:58:28 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时58分28秒', 'Pass']]
+2020-07-12 11:58:28 testScript.py[line:19]-DEBUG:[2, 'techman666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 11:59:02 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时59分02秒', 'Pass']
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 11:59:02 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日11时58分28秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时58分28秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日11时59分02秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时59分02秒', 'Pass']]
+2020-07-12 11:59:02 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日11时59分02秒', 'Pass']]
+2020-07-12 11:59:02 testScript.py[line:19]-DEBUG:[3, 'techman666', 123, '联系人', 'y', None, None]
+2020-07-12 11:59:41 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 11:59:41 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 11:59:41 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 11:59:42 testScript.py[line:19]-DEBUG:[4, 'techman666', 123, '联系人', 'n', None, None]
+2020-07-12 11:59:42 testScript.py[line:28]-INFO:第【4】个账户【techman666】不需要测试
+2020-07-12 11:59:42 testScript.py[line:28]-INFO:第【4】个账户【techman666】不需要测试
+2020-07-12 12:06:19 testScript.py[line:19]-DEBUG:[1, 'testaccount666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:06:40 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时06分40秒', 'Pass']
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:52]-INFO:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 12:06:40 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时06分40秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时06分40秒', 'Pass']]
+2020-07-12 12:06:40 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时06分40秒', 'Pass']]
+2020-07-12 12:06:40 testScript.py[line:19]-DEBUG:[2, 'techman666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:07:28 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时07分28秒', 'Pass']
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:52]-INFO:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 12:07:28 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时06分40秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时06分40秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日12时07分28秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时07分28秒', 'Pass']]
+2020-07-12 12:07:28 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时07分28秒', 'Pass']]
+2020-07-12 12:07:28 testScript.py[line:19]-DEBUG:[3, 'techman666', 123, '联系人', 'y', None, None]
+2020-07-12 12:07:50 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 12:07:50 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 12:07:50 testScript.py[line:37]-ERROR:Message: 
+
+2020-07-12 12:07:51 testScript.py[line:19]-DEBUG:[4, 'techman666', 123, '联系人', 'n', None, None]
+2020-07-12 12:07:51 testScript.py[line:28]-INFO:第【4】个账户【techman666】不需要测试
+2020-07-12 12:07:51 testScript.py[line:28]-INFO:第【4】个账户【techman666】不需要测试
+2020-07-12 12:09:24 testScript.py[line:19]-DEBUG:[1, 'testaccount666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:09:59 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时09分59秒', 'Pass']
+2020-07-12 12:09:59 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 12:09:59 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 12:09:59 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 12:09:59 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时09分59秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时09分59秒', 'Pass']]
+2020-07-12 12:09:59 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时09分59秒', 'Pass']]
+2020-07-12 12:09:59 testScript.py[line:19]-DEBUG:[2, 'techman666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:10:45 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时10分45秒', 'Pass']
+2020-07-12 12:10:45 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 12:10:45 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 12:10:45 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 12:10:45 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时09分59秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时09分59秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日12时10分45秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时10分45秒', 'Pass']]
+2020-07-12 12:10:45 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时10分45秒', 'Pass']]
+2020-07-12 12:10:45 testScript.py[line:19]-DEBUG:[3, 'techman666', 123, '联系人', 'y', None, None]
+2020-07-12 12:11:09 testScript.py[line:37]-DEBUG:Message: 
+
+
+
+
+2020-07-12 12:16:09 testScript.py[line:19]-DEBUG:[1, 'testaccount666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:16:29 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分29秒', 'Pass']
+2020-07-12 12:16:29 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 12:16:29 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 12:16:29 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 12:16:29 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时16分29秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分29秒', 'Pass']]
+2020-07-12 12:16:29 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分29秒', 'Pass']]
+2020-07-12 12:16:29 testScript.py[line:19]-DEBUG:[2, 'techman666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:16:51 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分51秒', 'Pass']
+2020-07-12 12:16:51 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【2】条用例不需要测试
+2020-07-12 12:16:51 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【3】条用例不需要测试
+2020-07-12 12:16:51 testScript.py[line:52]-DEBUG:第【2】个账户【techman666】的第【4】条用例不需要测试
+2020-07-12 12:16:51 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时16分29秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分29秒', 'Pass'], ['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [2, 'techman666', 'Beijing123', '联系人', 'y', '2020年07月12日12时16分51秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分51秒', 'Pass']]
+2020-07-12 12:16:51 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时16分51秒', 'Pass']]
+2020-07-12 12:16:51 testScript.py[line:19]-DEBUG:[3, 'techman666', 123, '联系人', 'y', None, None]
+2020-07-12 12:17:09 testScript.py[line:37]-DEBUG:Message: 
+
+2020-07-12 12:20:12 testScript.py[line:19]-DEBUG:[1, 'testaccount666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:20:32 testScript.py[line:57]-DEBUG:[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时20分32秒', 'Pass']
+2020-07-12 12:20:32 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【2】条用例不需要测试
+2020-07-12 12:20:32 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【3】条用例不需要测试
+2020-07-12 12:20:32 testScript.py[line:52]-DEBUG:第【1】个账户【testaccount666】的第【4】条用例不需要测试
+2020-07-12 12:20:32 testScript.py[line:71]-DEBUG:result:[['序号', '用户名', '密码', '数据表', '是否执行', '测试时间', '测试结果'], [1, 'testaccount666', 'Beijing123', '联系人', 'y', '2020年07月12日12时20分32秒', 'Pass'], ['序号', '联系人姓名', '联系人邮箱', '是否设为星标联系人', '联系人手机号', '联系人备注信息', '验证页面包含的关键字', '是否执行', '执行时间', '测试结果'], [1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时20分32秒', 'Pass']]
+2020-07-12 12:20:32 testScript.py[line:72]-DEBUG:sub_result:[[1, 'lily', 'lily@qq.com', '是', '135xxxxxxx1', '常联系人', 'lily@qq.com', 'y', '2020年07月12日12时20分32秒', 'Pass']]
+2020-07-12 12:20:32 testScript.py[line:19]-DEBUG:[2, 'techman666', 'Beijing123', '联系人', 'y', None, None]
+2020-07-12 12:20:49 testScript.py[line:37]-DEBUG:Message: 
+
+2020-07-12 12:20:50 testScript.py[line:19]-DEBUG:[3, 'techman666', 123, '联系人', 'y', None, None]
+2020-07-12 12:21:16 testScript.py[line:37]-DEBUG:Message: 
+
+2020-07-12 12:21:17 testScript.py[line:19]-DEBUG:[4, 'techman666', 123, '联系人', 'n', None, None]
+2020-07-12 12:21:17 testScript.py[line:28]-DEBUG:第【4】个账户【techman666】不需要测试
